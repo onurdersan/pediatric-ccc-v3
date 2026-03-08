@@ -143,4 +143,15 @@ If you use this tool in academic research, please cite the original CCC v3 publi
   year={2024},
   doi={10.1001/jamanetworkopen.2024.20579}
 }
+
+@software{onur_2026_18912002,
+  author       = {Onur, Derşan},
+  title        = {Pediatric CCC v3 — Classification Web App},
+  month        = mar,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {1.0},
+  doi          = {10.5281/zenodo.18912002},
+  url          = {https://doi.org/10.5281/zenodo.18912002},
+}
 ```
