@@ -1,5 +1,5 @@
 # Pediatric CCC v3 — Classification Web App
-[[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18912002.svg)]](https://zenodo.org/badge/DOI/10.5281/zenodo.18912002)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18912002.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.18912002)
 
 A privacy-first web application that classifies ICD-10-CM diagnosis and procedure codes into **Pediatric Complex Chronic Condition (CCC) Version 3** body-system categories, based on the algorithm published by Feinstein et al. (2024). 
 
