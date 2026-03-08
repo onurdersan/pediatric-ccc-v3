@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment files
+.env
+.env.*
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Copyrighted research files (PDFs, supplement spreadsheets)
+files/
+
+# Agent / AI config (project-local only)
+.agent/
+.gemini/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Test coverage
+coverage/

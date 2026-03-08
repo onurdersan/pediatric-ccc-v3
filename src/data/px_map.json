@@ -1,0 +1,6512 @@
+{
+  "0016070": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Nasopharynx with Autologous Tissue Substitute, Open Approach"
+  },
+  "0016071": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Mastoid Sinus with Autologous Tissue Substitute, Open Approach"
+  },
+  "0016072": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Atrium with Autologous Tissue Substitute, Open Approach"
+  },
+  "0016073": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Blood Vessel with Autologous Tissue Substitute, Open Approach"
+  },
+  "0016074": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Pleural Cavity with Autologous Tissue Substitute, Open Approach"
+  },
+  "0016075": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Intestine with Autologous Tissue Substitute, Open Approach"
+  },
+  "0016076": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Peritoneal Cavity with Autologous Tissue Substitute, Open Approach"
+  },
+  "0016077": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Urinary Tract with Autologous Tissue Substitute, Open Approach"
+  },
+  "0016078": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Bone Marrow with Autologous Tissue Substitute, Open Approach"
+  },
+  "001607B": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Cerebral Cisterns with Autologous Tissue Substitute, Percutaneous Approach"
+  },
+  "00160J0": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Nasopharynx with Synthetic Substitute, Open Approach"
+  },
+  "00160J1": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Mastoid Sinus with Synthetic Substitute, Open Approach"
+  },
+  "00160J2": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Atrium with Synthetic Substitute, Open Approach"
+  },
+  "00160J3": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Blood Vessel with Synthetic Substitute, Open Approach"
+  },
+  "00160J4": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Pleural Cavity with Synthetic Substitute, Open Approach"
+  },
+  "00160J5": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Intestine with Synthetic Substitute, Open Approach"
+  },
+  "00160J6": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Peritoneal Cavity with Synthetic Substitute, Open Approach"
+  },
+  "00160J7": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Urinary Tract with Synthetic Substitute, Open Approach"
+  },
+  "00160J8": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Bone Marrow with Synthetic Substitute, Open Approach"
+  },
+  "00160JB": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Cerebral Cisterns with Synthetic Substitute, Open Approach"
+  },
+  "00160K0": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Nasopharynx with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "00160K1": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Mastoid Sinus with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "00160K2": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Atrium with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "00160K3": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Blood Vessel with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "00160K4": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Pleural Cavity with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "00160K5": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Intestine with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "00160K6": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Peritoneal Cavity with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "00160K7": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Urinary Tract with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "00160K8": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Bone Marrow with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "00160KB": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Cerebral Cisterns with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "0016370": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Nasopharynx with Autologous Tissue Substitute, Percutaneous Approach"
+  },
+  "0016371": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Mastoid Sinus with Autologous Tissue Substitute, Percutaneous Approach"
+  },
+  "0016372": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Atrium with Autologous Tissue Substitute, Percutaneous Approach"
+  },
+  "0016373": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Blood Vessel with Autologous Tissue Substitute, Percutaneous Approach"
+  },
+  "0016374": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Pleural Cavity with Autologous Tissue Substitute, Percutaneous Approach"
+  },
+  "0016375": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Intestine with Autologous Tissue Substitute, Percutaneous Approach"
+  },
+  "0016376": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Peritoneal Cavity with Autologous Tissue Substitute, Percutaneous Approach"
+  },
+  "0016377": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Urinary Tract with Autologous Tissue Substitute, Percutaneous Approach"
+  },
+  "0016378": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Bone Marrow with Autologous Tissue Substitute, Percutaneous Approach"
+  },
+  "00163J0": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Nasopharynx with Synthetic Substitute, Percutaneous Approach"
+  },
+  "00163J1": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Mastoid Sinus with Synthetic Substitute, Percutaneous Approach"
+  },
+  "00163J2": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Atrium with Synthetic Substitute, Percutaneous Approach"
+  },
+  "00163J3": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Blood Vessel with Synthetic Substitute, Percutaneous Approach"
+  },
+  "00163J4": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Pleural Cavity with Synthetic Substitute, Percutaneous Approach"
+  },
+  "00163J5": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Intestine with Synthetic Substitute, Percutaneous Approach"
+  },
+  "00163J6": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Peritoneal Cavity with Synthetic Substitute, Percutaneous Approach"
+  },
+  "00163J7": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Urinary Tract with Synthetic Substitute, Percutaneous Approach"
+  },
+  "00163J8": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Bone Marrow with Synthetic Substitute, Percutaneous Approach"
+  },
+  "00163JB": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Cerebral Cisterns with Synthetic Substitute, Percutaneous Approach"
+  },
+  "00163K0": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Nasopharynx with Nonautologous Tissue Substitute, Percutaneous Approach"
+  },
+  "00163K1": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Mastoid Sinus with Nonautologous Tissue Substitute, Percutaneous Approach"
+  },
+  "00163K2": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Atrium with Nonautologous Tissue Substitute, Percutaneous Approach"
+  },
+  "00163K3": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Blood Vessel with Nonautologous Tissue Substitute, Percutaneous Approach"
+  },
+  "00163K4": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Pleural Cavity with Nonautologous Tissue Substitute, Percutaneous Approach"
+  },
+  "00163K5": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Intestine with Nonautologous Tissue Substitute, Percutaneous Approach"
+  },
+  "00163K6": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Peritoneal Cavity with Nonautologous Tissue Substitute, Percutaneous Approach"
+  },
+  "00163K7": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Urinary Tract with Nonautologous Tissue Substitute, Percutaneous Approach"
+  },
+  "00163K8": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Bone Marrow with Nonautologous Tissue Substitute, Percutaneous Approach"
+  },
+  "00163KB": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Cerebral Cisterns with Nonautologous Tissue Substitute, Percutaneous Approach"
+  },
+  "001U074": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Pleural Cavity with Autologous Tissue Substitute, Open Approach"
+  },
+  "001U076": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Peritoneal Cavity with Autologous Tissue Substitute, Open Approach"
+  },
+  "001U077": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Urinary Tract with Autologous Tissue Substitute, Open Approach"
+  },
+  "001U079": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Fallopian Tube with Autologous Tissue Substitute, Open Approach"
+  },
+  "001U0J4": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Pleural Cavity with Synthetic Substitute, Open Approach"
+  },
+  "001U0J6": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Peritoneal Cavity with Synthetic Substitute, Open Approach"
+  },
+  "001U0J7": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Urinary Tract with Synthetic Substitute, Open Approach"
+  },
+  "001U0J9": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Fallopian Tube with Synthetic Substitute, Open Approach"
+  },
+  "001U0K4": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Pleural Cavity with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "001U0K6": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Peritoneal Cavity with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "001U0K7": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Urinary Tract with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "001U0K9": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Fallopian Tube with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "001U374": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Pleural Cavity with Autologous Tissue Substitute, Percutaneous Approach"
+  },
+  "001U376": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Peritoneal Cavity with Autologous Tissue Substitute, Percutaneous Approach"
+  },
+  "001U377": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Urinary Tract with Autologous Tissue Substitute, Percutaneous Approach"
+  },
+  "001U379": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Fallopian Tube with Autologous Tissue Substitute, Percutaneous Approach"
+  },
+  "001U3J4": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Pleural Cavity with Synthetic Substitute, Percutaneous Approach"
+  },
+  "001U3J6": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Peritoneal Cavity with Synthetic Substitute, Percutaneous Approach"
+  },
+  "001U3J7": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Urinary Tract with Synthetic Substitute, Percutaneous Approach"
+  },
+  "001U3J9": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Fallopian Tube with Synthetic Substitute, Percutaneous Approach"
+  },
+  "001U3K4": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Pleural Cavity with Nonautologous Tissue Substitute, Percutaneous Approach"
+  },
+  "001U3K6": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Peritoneal Cavity with Nonautologous Tissue Substitute, Percutaneous Approach"
+  },
+  "001U3K7": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Urinary Tract with Nonautologous Tissue Substitute, Percutaneous Approach"
+  },
+  "001U3K9": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Spinal Canal to Fallopian Tube with Nonautologous Tissue Substitute, Percutaneous Approach"
+  },
+  "009600Z": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Drainage of Cerebral Ventricle with Drainage Device, Open Approach"
+  },
+  "009630Z": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Drainage of Cerebral Ventricle with Drainage Device, Percutaneous Approach"
+  },
+  "009640Z": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Drainage of Cerebral Ventricle with Drainage Device, Percutaneous Endoscopic Approach"
+  },
+  "00B70ZZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Excision of Cerebral Hemisphere, Open Approach"
+  },
+  "00B73ZZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Excision of Cerebral Hemisphere, Percutaneous Approach"
+  },
+  "00B74ZZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Excision of Cerebral Hemisphere, Percutaneous Endoscopic Approach"
+  },
+  "00H00MZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Insertion of Neurostimulator Lead into Brain, Open Approach"
+  },
+  "00H03MZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Insertion of Neurostimulator Lead into Brain, Percutaneous Approach"
+  },
+  "00H04MZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Insertion of Neurostimulator Lead into Brain, Percutaneous Endoscopic Approach"
+  },
+  "00H60MZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Insertion of Neurostimulator Lead into Cerebral Ventricle, Open Approach"
+  },
+  "00H63MZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Insertion of Neurostimulator Lead into Cerebral Ventricle, Percutaneous Approach"
+  },
+  "00H64MZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Insertion of Neurostimulator Lead into Cerebral Ventricle, Percutaneous Endoscopic Approach"
+  },
+  "00HE0MZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Insertion of Neurostimulator Lead into Cranial Nerve, Open Approach"
+  },
+  "00HE3MZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Insertion of Neurostimulator Lead into Cranial Nerve, Percutaneous Approach"
+  },
+  "00HE4MZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Insertion of Neurostimulator Lead into Cranial Nerve, Percutaneous Endoscopic Approach"
+  },
+  "00HU0MZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Insertion of Neurostimulator Lead into Spinal Canal, Open Approach"
+  },
+  "00HU3MZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Insertion of Neurostimulator Lead into Spinal Canal, Percutaneous Approach"
+  },
+  "00HU4MZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Insertion of Neurostimulator Lead into Spinal Canal, Percutaneous Endoscopic Approach"
+  },
+  "00HV0MZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Insertion of Neurostimulator Lead into Spinal Cord, Open Approach"
+  },
+  "00HV3MZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Insertion of Neurostimulator Lead into Spinal Cord, Percutaneous Approach"
+  },
+  "00HV4MZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Insertion of Neurostimulator Lead into Spinal Cord, Percutaneous Endoscopic Approach"
+  },
+  "00T70ZZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Resection of Cerebral Hemisphere, Open Approach"
+  },
+  "00T73ZZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Resection of Cerebral Hemisphere, Percutaneous Approach"
+  },
+  "00T74ZZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Resection of Cerebral Hemisphere, Percutaneous Endoscopic Approach"
+  },
+  "00W60JZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Revision of Synthetic Substitute in Cerebral Ventricle, Open Approach"
+  },
+  "00W63JZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Revision of Synthetic Substitute in Cerebral Ventricle, Percutaneous Approach"
+  },
+  "00W64JZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Revision of Synthetic Substitute in Cerebral Ventricle, Percutaneous Endoscopic Approach"
+  },
+  "00WU0JZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Revision of Synthetic Substitute in Spinal Canal, Open Approach"
+  },
+  "00WU3JZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Revision of Synthetic Substitute in Spinal Canal, Percutaneous Approach"
+  },
+  "00WU4JZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Revision of Synthetic Substitute in Spinal Canal, Percutaneous Endoscopic Approach"
+  },
+  "01HY0MZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Insertion of Neurostimulator Lead into Peripheral Nerve, Open Approach"
+  },
+  "01HY3MZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Insertion of Neurostimulator Lead into Peripheral Nerve, Percutaneous Approach"
+  },
+  "01HY4MZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Insertion of Neurostimulator Lead into Peripheral Nerve, Percutaneous Endoscopic Approach"
+  },
+  "021609Q": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass R Atrium to R Pulm Art with Autol Vn, Open Approach"
+  },
+  "02160JP": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass R Atrium to Pulm Trunk with Synth Sub, Open Approach"
+  },
+  "02160JQ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass R Atrium to R Pulm Art with Synth Sub, Open Approach"
+  },
+  "02160JR": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass R Atrium to L Pulm Art with Synth Sub, Open Approach"
+  },
+  "02160KP": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass R Atrium to Pulm Trunk with Nonaut Sub, Open Approach"
+  },
+  "02160Z7": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass Right Atrium to Left Atrium, Open Approach"
+  },
+  "02160ZP": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass Right Atrium to Pulmonary Trunk, Open Approach"
+  },
+  "02163Z7": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass Right Atrium to Left Atrium, Percutaneous Approach"
+  },
+  "021708S": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass L Atrium to R Pulm Vn with Zooplastic, Open Approach"
+  },
+  "021708T": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass L Atrium to L Pulm Vn with Zooplastic, Open Approach"
+  },
+  "021708U": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass L Atrium to Pulm Vn Cnfl w Zooplastic, Open"
+  },
+  "021709S": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass Left Atrium to R Pulm Vn with Autol Vn, Open Approach"
+  },
+  "021709T": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass Left Atrium to L Pulm Vn with Autol Vn, Open Approach"
+  },
+  "021709U": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass L Atrium to Pulm Vn Cnfl with Autol Vn, Open Approach"
+  },
+  "02170AS": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass L Atrium to R Pulm Vn with Autol Art, Open Approach"
+  },
+  "02170AU": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass L Atrium to Pulm Vn Cnfl w Autol Art, Open"
+  },
+  "02170JQ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass L Atrium to R Pulm Art with Synth Sub, Open Approach"
+  },
+  "02170JS": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass L Atrium to R Pulm Vn with Synth Sub, Open Approach"
+  },
+  "02170JU": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass L Atrium to Pulm Vn Cnfl w Synth Sub, Open"
+  },
+  "02170KS": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass L Atrium to R Pulm Vn with Nonaut Sub, Open Approach"
+  },
+  "02170KU": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass L Atrium to Pulm Vn Cnfl w Nonaut Sub, Open"
+  },
+  "02170ZP": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass Left Atrium to Pulmonary Trunk, Open Approach"
+  },
+  "02170ZQ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass Left Atrium to Right Pulmonary Artery, Open Approach"
+  },
+  "02170ZR": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass Left Atrium to Left Pulmonary Artery, Open Approach"
+  },
+  "02170ZS": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass Left Atrium to Right Pulmonary Vein, Open Approach"
+  },
+  "02170ZT": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass Left Atrium to Left Pulmonary Vein, Open Approach"
+  },
+  "02170ZU": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass Left Atrium to Pulm Vn Cnfl, Open Approach"
+  },
+  "02173J6": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass Left Atrium to R Atrium with Synth Sub, Perc Approach"
+  },
+  "021K08P": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass R Ventricle to Pulm Trunk w Zooplastic, Open"
+  },
+  "021K08Q": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass R Ventricle to R Pulm Art w Zooplastic, Open"
+  },
+  "021K08R": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass R Ventricle to L Pulm Art w Zooplastic, Open"
+  },
+  "021K09P": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass R Ventricle to Pulm Trunk w Autol Vn, Open"
+  },
+  "021K0AP": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass R Ventricle to Pulm Trunk w Autol Art, Open"
+  },
+  "021K0AQ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass R Ventricle to R Pulm Art w Autol Art, Open"
+  },
+  "021K0JP": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass R Ventricle to Pulm Trunk w Synth Sub, Open"
+  },
+  "021K0JQ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass R Ventricle to R Pulm Art w Synth Sub, Open"
+  },
+  "021K0JR": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass R Ventricle to L Pulm Art w Synth Sub, Open"
+  },
+  "021K0KP": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass R Ventricle to Pulm Trunk w Nonaut Sub, Open"
+  },
+  "021K0KQ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass R Ventricle to R Pulm Art w Nonaut Sub, Open"
+  },
+  "021K0KR": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass R Ventricle to L Pulm Art w Nonaut Sub, Open"
+  },
+  "021K0ZP": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass Right Ventricle to Pulmonary Trunk, Open Approach"
+  },
+  "021K0ZQ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass Right Ventricle to R Pulm Art, Open Approach"
+  },
+  "021K0ZR": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass Right Ventricle to L Pulm Art, Open Approach"
+  },
+  "021K0ZW": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass Right Ventricle to Aorta, Open Approach"
+  },
+  "021K4JP": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass R Ventricle to Pulm Trunk w Synth Sub, Perc Endo"
+  },
+  "021K4KQ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass R Ventricle to R Pulm Art w Nonaut Sub, Perc Endo"
+  },
+  "021L08R": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass L Ventricle to L Pulm Art w Zooplastic, Open"
+  },
+  "021L0KP": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass L Ventricle to Pulm Trunk w Nonaut Sub, Open"
+  },
+  "021L0ZW": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Bypass Left Ventricle to Aorta, Open Approach"
+  },
+  "024F07J": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Create Aort Valve from Trunc Vlv w Autol Sub, Open"
+  },
+  "024F08J": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Create Aort Valve from Trunc Vlv w Zooplastic, Open"
+  },
+  "024F0JJ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Create Aort Valve from Trunc Vlv w Synth Sub, Open"
+  },
+  "024F0KJ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Create Aort Valve from Trunc Vlv w Nonaut Sub, Open"
+  },
+  "024G072": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Create Mitral Valve from Comn AV Valve w Autol Sub, Open"
+  },
+  "024G082": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Create Mitral Valve from Comn AV Valve w Zooplastic, Open"
+  },
+  "024G0J2": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Create Mitral Valve from Comn AV Valve w Synth Sub, Open"
+  },
+  "024G0K2": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Create Mitral Valve from Comn AV Valve w Nonaut Sub, Open"
+  },
+  "024J072": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Create Tricusp Valve from Comn AV Valve w Autol Sub, Open"
+  },
+  "024J082": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Create Tricusp Valve from Comn AV Valve w Zooplastic, Open"
+  },
+  "024J0J2": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Create Tricusp Valve from Comn AV Valve w Synth Sub, Open"
+  },
+  "02BK0ZZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Excision of Right Ventricle, Open Approach"
+  },
+  "02H40JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker Lead into Coronary Vein, Open Approach"
+  },
+  "02H40KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Defibrillator Lead into Coronary Vein, Open Approach"
+  },
+  "02H43JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker Lead into Coronary Vein, Percutaneous Approach"
+  },
+  "02H44JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker Lead into Coronary Vein, Percutaneous Endoscopic Approach"
+  },
+  "02H44KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Defibrillator Lead into Coronary Vein, Percutaneous Endoscopic Approach"
+  },
+  "02H60JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker Lead into Right Atrium, Open Approach"
+  },
+  "02H60KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Defibrillator Lead into Right Atrium, Open Approach"
+  },
+  "02H63JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker Lead into Right Atrium, Percutaneous Approach"
+  },
+  "02H63KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Defibrillator Lead into Right Atrium, Percutaneous Approach"
+  },
+  "02H63MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Cardiac Lead into Right Atrium, Percutaneous Approach"
+  },
+  "02H64JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker Lead into Right Atrium, Percutaneous Endoscopic Approach"
+  },
+  "02H64KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Defibrillator Lead into Right Atrium, Percutaneous Endoscopic Approach"
+  },
+  "02H70JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker Lead into Left Atrium, Open Approach"
+  },
+  "02H73JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker Lead into Left Atrium, Percutaneous Approach"
+  },
+  "02H73KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Defibrillator Lead into Left Atrium, Percutaneous Approach"
+  },
+  "02H73MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Cardiac Lead into Left Atrium, Percutaneous Approach"
+  },
+  "02H74KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Defibrillator Lead into Left Atrium, Percutaneous Endoscopic Approach"
+  },
+  "02HA0QZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Implantable Heart Assist System into Heart, Open Approach"
+  },
+  "02HA0RS": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Biventricular Short-term External Heart Assist System into Heart, Open Approach"
+  },
+  "02HA0RZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Short-term External Heart Assist System into Heart, Open Approach"
+  },
+  "02HA3QZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Implantable Heart Assist System into Heart, Percutaneous Approach"
+  },
+  "02HA3RS": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Biventricular Short-term External Heart Assist System into Heart, Percutaneous Approach"
+  },
+  "02HA4QZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Implantable Heart Assist System into Heart, Percutaneous Endoscopic Approach"
+  },
+  "02HA4RS": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Biventricular Short-term External Heart Assist System into Heart, Percutaneous Endoscopic Approach"
+  },
+  "02HK0JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker Lead into Right Ventricle, Open Approach"
+  },
+  "02HK0KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Defibrillator Lead into Right Ventricle, Open Approach"
+  },
+  "02HK3JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker Lead into Right Ventricle, Percutaneous Approach"
+  },
+  "02HK3KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Defibrillator Lead into Right Ventricle, Percutaneous Approach"
+  },
+  "02HK3MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Cardiac Lead into Right Ventricle, Percutaneous Approach"
+  },
+  "02HK4JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker Lead into Right Ventricle, Percutaneous Endoscopic Approach"
+  },
+  "02HK4KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Defibrillator Lead into Right Ventricle, Percutaneous Endoscopic Approach"
+  },
+  "02HL0JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker Lead into Left Ventricle, Open Approach"
+  },
+  "02HL0KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Defibrillator Lead into Left Ventricle, Open Approach"
+  },
+  "02HL0MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Cardiac Lead into Left Ventricle, Open Approach"
+  },
+  "02HL3JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker Lead into Left Ventricle, Percutaneous Approach"
+  },
+  "02HL3KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Defibrillator Lead into Left Ventricle, Percutaneous Approach"
+  },
+  "02HL3MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Cardiac Lead into Left Ventricle, Percutaneous Approach"
+  },
+  "02HL4JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker Lead into Left Ventricle, Percutaneous Endoscopic Approach"
+  },
+  "02HL4KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Defibrillator Lead into Left Ventricle, Percutaneous Endoscopic Approach"
+  },
+  "02HL4MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Cardiac Lead into Left Ventricle, Percutaneous Endoscopic Approach"
+  },
+  "02HN0JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker Lead into Pericardium, Open Approach"
+  },
+  "02HN0KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Defibrillator Lead into Pericardium, Open Approach"
+  },
+  "02HN0MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Cardiac Lead into Pericardium, Open Approach"
+  },
+  "02HN3JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker Lead into Pericardium, Percutaneous Approach"
+  },
+  "02HN3KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Defibrillator Lead into Pericardium, Percutaneous Approach"
+  },
+  "02HN3MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Cardiac Lead into Pericardium, Percutaneous Approach"
+  },
+  "02HN4JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker Lead into Pericardium, Percutaneous Endoscopic Approach"
+  },
+  "02HN4KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Defibrillator Lead into Pericardium, Percutaneous Endoscopic Approach"
+  },
+  "02HN4MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Cardiac Lead into Pericardium, Percutaneous Endoscopic Approach"
+  },
+  "02LR0CT": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Occlusion of Ductus Arterio with Extralum Dev, Open Approach"
+  },
+  "02LR0DT": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Occlusion of Ductus Arterio with Intralum Dev, Open Approach"
+  },
+  "02LR0ZT": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Occlusion of Ductus Arteriosus, Open Approach"
+  },
+  "02LS0ZZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Occlusion of Right Pulmonary Vein, Open Approach"
+  },
+  "02LT0ZZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Occlusion of Left Pulmonary Vein, Open Approach"
+  },
+  "02NH0ZZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Release Pulmonary Valve, Open Approach"
+  },
+  "02Q60ZZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Repair Right Atrium, Open Approach"
+  },
+  "02Q63ZZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Repair Right Atrium, Percutaneous Approach"
+  },
+  "02Q73ZZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Repair Left Atrium, Percutaneous Approach"
+  },
+  "02QA0ZZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Repair Heart, Open Approach"
+  },
+  "02QA3ZZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Repair Heart, Percutaneous Approach"
+  },
+  "02RK07Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Replacement of Right Ventricle with Autol Sub, Open Approach"
+  },
+  "02RK08Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Replacement of Right Ventricle with Zooplastic, Open Approach"
+  },
+  "02RK0JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Replacement of Right Ventricle with Synthetic Substitute, Open Approach"
+  },
+  "02RL0JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Replacement of Left Ventricle with Synthetic Substitute, Open Approach"
+  },
+  "02RM0JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Replacement of Ventricular Septum with Synthetic Substitute, Open Approach"
+  },
+  "02RP0JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Replacement of Pulmonary Trunk with Synthetic Substitute, Open Approach"
+  },
+  "02RQ07Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Replacement of Right Pulmonary Artery with Autologous Tissue Substitute, Open Approach"
+  },
+  "02RQ0JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Replacement of Right Pulmonary Artery with Synthetic Substitute, Open Approach"
+  },
+  "02RR07Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Replacement of Left Pulmonary Artery with Autologous Tissue Substitute, Open Approach"
+  },
+  "02RR0JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Replacement of Left Pulmonary Artery with Synthetic Substitute, Open Approach"
+  },
+  "02SP0ZZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Reposition Pulmonary Trunk, Open Approach"
+  },
+  "02SW0ZZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Reposition Thoracic Aorta, Descending, Open Approach"
+  },
+  "02SX0ZZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Reposition Thoracic Aorta, Ascending/Arch, Open Approach"
+  },
+  "02U607Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Right Atrium with Autol Sub, Open Approach"
+  },
+  "02U608Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Right Atrium with Zooplastic, Open Approach"
+  },
+  "02U60JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Right Atrium with Synth Sub, Open Approach"
+  },
+  "02U707Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Left Atrium with Autol Sub, Open Approach"
+  },
+  "02U708Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Left Atrium with Zooplastic Tissue, Open Approach"
+  },
+  "02U70JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Left Atrium with Synthetic Substitute, Open Approach"
+  },
+  "02UA07Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Heart with Autologous Tissue Substitute, Open Approach"
+  },
+  "02UA3JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Heart with Synthetic Substitute, Percutaneous Approach"
+  },
+  "02UA4JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Heart with Synthetic Substitute, Percutaneous Endoscopic Approach"
+  },
+  "02UK07Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Right Ventricle with Autol Sub, Open Approach"
+  },
+  "02UK08Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Right Ventricle with Zooplastic, Open Approach"
+  },
+  "02UK0JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Right Ventricle with Synth Sub, Open Approach"
+  },
+  "02UK0KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Right Ventricle with Nonaut Sub, Open Approach"
+  },
+  "02UL07Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Left Ventricle with Autol Sub, Open Approach"
+  },
+  "02UL0JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Left Ventricle with Synth Sub, Open Approach"
+  },
+  "02UL0KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Left Ventricle with Nonaut Sub, Open Approach"
+  },
+  "02UP07Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Pulmonary Trunk with Autol Sub, Open Approach"
+  },
+  "02UP08Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Pulmonary Trunk with Zooplastic, Open Approach"
+  },
+  "02UP0JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Pulmonary Trunk with Synth Sub, Open Approach"
+  },
+  "02UP0KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Pulmonary Trunk with Nonaut Sub, Open Approach"
+  },
+  "02UP38Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Pulmonary Trunk with Zooplastic, Perc Approach"
+  },
+  "02UW07Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Thor Aorta Desc with Autol Sub, Open Approach"
+  },
+  "02UW08Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Thor Aorta Desc with Zooplastic, Open Approach"
+  },
+  "02UW0JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Thor Aorta Desc with Synth Sub, Open Approach"
+  },
+  "02UW0KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Thor Aorta Desc with Nonaut Sub, Open Approach"
+  },
+  "02UX07Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Thor Aorta Asc with Autol Sub, Open Approach"
+  },
+  "02UX08Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Thor Aorta Asc with Zooplastic, Open Approach"
+  },
+  "02UX0JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Thor Aorta Asc with Synth Sub, Open Approach"
+  },
+  "02UX0KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Thor Aorta Asc with Nonaut Sub, Open Approach"
+  },
+  "02UX3KZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Supplement Thor Aorta Asc with Nonaut Sub, Perc Approach"
+  },
+  "02VR0ZT": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Restriction of Ductus Arteriosus, Open Approach"
+  },
+  "02W50JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Revision of Synthetic Substitute in Atrial Septum, Open Approach"
+  },
+  "02WA0JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Revision of Synthetic Substitute in Heart, Open Approach"
+  },
+  "02WA0QZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Revision of Implantable Heart Assist System in Heart, Open Approach"
+  },
+  "02WA0RZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Revision of Short-term External Heart Assist System in Heart, Open Approach"
+  },
+  "02WA3QZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Revision of Implantable Heart Assist System in Heart, Percutaneous Approach"
+  },
+  "02WA3RZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Revision of Short-term External Heart Assist System in Heart, Percutaneous Approach"
+  },
+  "02WA4QZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Revision of Implantable Heart Assist System in Heart, Percutaneous Endoscopic Approach"
+  },
+  "02WA4RZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Revision of Short-term External Heart Assist System in Heart, Percutaneous Endoscopic Approach"
+  },
+  "02WM0JZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Revision of Synthetic Substitute in Ventricular Septum, Open Approach"
+  },
+  "02YA0Z0": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Transplantation of Heart, Allogeneic, Open Approach"
+  },
+  "02YA0Z1": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Transplantation of Heart, Syngeneic, Open Approach"
+  },
+  "02YA0Z2": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Transplantation of Heart, Zooplastic, Open Approach"
+  },
+  "031209D": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Innominate Artery to Upper Arm Vein with Autologous Venous Tissue, Open Approach"
+  },
+  "031209F": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Innominate Artery to Lower Arm Vein with Autologous Venous Tissue, Open Approach"
+  },
+  "03120AD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Innominate Artery to Upper Arm Vein with Autologous Arterial Tissue, Open Approach"
+  },
+  "03120AF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Innominate Artery to Lower Arm Vein with Autologous Arterial Tissue, Open Approach"
+  },
+  "03120JD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Innominate Artery to Upper Arm Vein with Synthetic Substitute, Open Approach"
+  },
+  "03120JF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Innominate Artery to Lower Arm Vein with Synthetic Substitute, Open Approach"
+  },
+  "03120KD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Innominate Artery to Upper Arm Vein with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "03120KF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Innominate Artery to Lower Arm Vein with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "03120ZD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Innominate Artery to Upper Arm Vein, Open Approach"
+  },
+  "03120ZF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Innominate Artery to Lower Arm Vein, Open Approach"
+  },
+  "031309D": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Subclavian Artery to Upper Arm Vein with Autologous Venous Tissue, Open Approach"
+  },
+  "031309F": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Subclavian Artery to Lower Arm Vein with Autologous Venous Tissue, Open Approach"
+  },
+  "03130AD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Subclavian Artery to Upper Arm Vein with Autologous Arterial Tissue, Open Approach"
+  },
+  "03130AF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Subclavian Artery to Lower Arm Vein with Autologous Arterial Tissue, Open Approach"
+  },
+  "03130JD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Subclavian Artery to Upper Arm Vein with Synthetic Substitute, Open Approach"
+  },
+  "03130JF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Subclavian Artery to Lower Arm Vein with Synthetic Substitute, Open Approach"
+  },
+  "03130KD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Subclavian Artery to Upper Arm Vein with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "03130KF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Subclavian Artery to Lower Arm Vein with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "03130ZD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Subclavian Artery to Upper Arm Vein, Open Approach"
+  },
+  "03130ZF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Subclavian Artery to Lower Arm Vein, Open Approach"
+  },
+  "031409D": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Subclavian Artery to Upper Arm Vein with Autologous Venous Tissue, Open Approach"
+  },
+  "031409F": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Subclavian Artery to Lower Arm Vein with Autologous Venous Tissue, Open Approach"
+  },
+  "03140AD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Subclavian Artery to Upper Arm Vein with Autologous Arterial Tissue, Open Approach"
+  },
+  "03140AF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Subclavian Artery to Lower Arm Vein with Autologous Arterial Tissue, Open Approach"
+  },
+  "03140JD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Subclavian Artery to Upper Arm Vein with Synthetic Substitute, Open Approach"
+  },
+  "03140JF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Subclavian Artery to Lower Arm Vein with Synthetic Substitute, Open Approach"
+  },
+  "03140KD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Subclavian Artery to Upper Arm Vein with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "03140KF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Subclavian Artery to Lower Arm Vein with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "03140ZD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Subclavian Artery to Upper Arm Vein, Open Approach"
+  },
+  "03140ZF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Subclavian Artery to Lower Arm Vein, Open Approach"
+  },
+  "031509D": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Axillary Artery to Upper Arm Vein with Autologous Venous Tissue, Open Approach"
+  },
+  "031509F": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Axillary Artery to Lower Arm Vein with Autologous Venous Tissue, Open Approach"
+  },
+  "03150AD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Axillary Artery to Upper Arm Vein with Autologous Arterial Tissue, Open Approach"
+  },
+  "03150AF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Axillary Artery to Lower Arm Vein with Autologous Arterial Tissue, Open Approach"
+  },
+  "03150JD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Axillary Artery to Upper Arm Vein with Synthetic Substitute, Open Approach"
+  },
+  "03150JF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Axillary Artery to Lower Arm Vein with Synthetic Substitute, Open Approach"
+  },
+  "03150KD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Axillary Artery to Upper Arm Vein with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "03150KF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Axillary Artery to Lower Arm Vein with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "03150ZD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Axillary Artery to Upper Arm Vein, Open Approach"
+  },
+  "03150ZF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Axillary Artery to Lower Arm Vein, Open Approach"
+  },
+  "031609D": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Axillary Artery to Upper Arm Vein with Autologous Venous Tissue, Open Approach"
+  },
+  "031609F": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Axillary Artery to Lower Arm Vein with Autologous Venous Tissue, Open Approach"
+  },
+  "03160AD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Axillary Artery to Upper Arm Vein with Autologous Arterial Tissue, Open Approach"
+  },
+  "03160AF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Axillary Artery to Lower Arm Vein with Autologous Arterial Tissue, Open Approach"
+  },
+  "03160JD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Axillary Artery to Upper Arm Vein with Synthetic Substitute, Open Approach"
+  },
+  "03160JF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Axillary Artery to Lower Arm Vein with Synthetic Substitute, Open Approach"
+  },
+  "03160KD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Axillary Artery to Upper Arm Vein with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "03160KF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Axillary Artery to Lower Arm Vein with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "03160ZD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Axillary Artery to Upper Arm Vein, Open Approach"
+  },
+  "03160ZF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Axillary Artery to Lower Arm Vein, Open Approach"
+  },
+  "031709D": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Brachial Artery to Upper Arm Vein with Autologous Venous Tissue, Open Approach"
+  },
+  "031709F": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Brachial Artery to Lower Arm Vein with Autologous Venous Tissue, Open Approach"
+  },
+  "03170AD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Brachial Artery to Upper Arm Vein with Autologous Arterial Tissue, Open Approach"
+  },
+  "03170AF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Brachial Artery to Lower Arm Vein with Autologous Arterial Tissue, Open Approach"
+  },
+  "03170JD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Brachial Artery to Upper Arm Vein with Synthetic Substitute, Open Approach"
+  },
+  "03170JF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Brachial Artery to Lower Arm Vein with Synthetic Substitute, Open Approach"
+  },
+  "03170KD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Brachial Artery to Upper Arm Vein with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "03170KF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Brachial Artery to Lower Arm Vein with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "03170ZD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Brachial Artery to Upper Arm Vein, Open Approach"
+  },
+  "03170ZF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Brachial Artery to Lower Arm Vein, Open Approach"
+  },
+  "031809D": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Brachial Artery to Upper Arm Vein with Autologous Venous Tissue, Open Approach"
+  },
+  "031809F": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Brachial Artery to Lower Arm Vein with Autologous Venous Tissue, Open Approach"
+  },
+  "03180AD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Brachial Artery to Upper Arm Vein with Autologous Arterial Tissue, Open Approach"
+  },
+  "03180AF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Brachial Artery to Lower Arm Vein with Autologous Arterial Tissue, Open Approach"
+  },
+  "03180JD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Brachial Artery to Upper Arm Vein with Synthetic Substitute, Open Approach"
+  },
+  "03180JF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Brachial Artery to Lower Arm Vein with Synthetic Substitute, Open Approach"
+  },
+  "03180KD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Brachial Artery to Upper Arm Vein with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "03180KF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Brachial Artery to Lower Arm Vein with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "03180ZD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Brachial Artery to Upper Arm Vein, Open Approach"
+  },
+  "03180ZF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Brachial Artery to Lower Arm Vein, Open Approach"
+  },
+  "031909F": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ulnar Artery to Lower Arm Vein with Autologous Venous Tissue, Open Approach"
+  },
+  "03190AF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ulnar Artery to Lower Arm Vein with Autologous Arterial Tissue, Open Approach"
+  },
+  "03190JF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ulnar Artery to Lower Arm Vein with Synthetic Substitute, Open Approach"
+  },
+  "03190KF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ulnar Artery to Lower Arm Vein with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "03190ZF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ulnar Artery to Lower Arm Vein, Open Approach"
+  },
+  "031A09F": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ulnar Artery to Lower Arm Vein with Autologous Venous Tissue, Open Approach"
+  },
+  "031A0AF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ulnar Artery to Lower Arm Vein with Autologous Arterial Tissue, Open Approach"
+  },
+  "031A0JF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ulnar Artery to Lower Arm Vein with Synthetic Substitute, Open Approach"
+  },
+  "031A0KF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ulnar Artery to Lower Arm Vein with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "031A0ZF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ulnar Artery to Lower Arm Vein, Open Approach"
+  },
+  "031B09F": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Radial Artery to Lower Arm Vein with Autologous Venous Tissue, Open Approach"
+  },
+  "031B0AF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Radial Artery to Lower Arm Vein with Autologous Arterial Tissue, Open Approach"
+  },
+  "031B0JF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Radial Artery to Lower Arm Vein with Synthetic Substitute, Open Approach"
+  },
+  "031B0KF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Radial Artery to Lower Arm Vein with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "031B0ZF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Radial Artery to Lower Arm Vein, Open Approach"
+  },
+  "031C09F": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Radial Artery to Lower Arm Vein with Autologous Venous Tissue, Open Approach"
+  },
+  "031C0AF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Radial Artery to Lower Arm Vein with Autologous Arterial Tissue, Open Approach"
+  },
+  "031C0JF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Radial Artery to Lower Arm Vein with Synthetic Substitute, Open Approach"
+  },
+  "031C0KF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Radial Artery to Lower Arm Vein with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "031C0ZF": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Radial Artery to Lower Arm Vein, Open Approach"
+  },
+  "03HK0MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Stimulator Lead into Right Internal Carotid Artery, Open Approach"
+  },
+  "03HK3MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Stimulator Lead into Right Internal Carotid Artery, Percutaneous Approach"
+  },
+  "03HK4MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Stimulator Lead into Right Internal Carotid Artery, Percutaneous Endoscopic Approach"
+  },
+  "03HL0MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Stimulator Lead into Left Internal Carotid Artery, Open Approach"
+  },
+  "03HL3MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Stimulator Lead into Left Internal Carotid Artery, Percutaneous Approach"
+  },
+  "03HL4MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Stimulator Lead into Left Internal Carotid Artery, Percutaneous Endoscopic Approach"
+  },
+  "03WY0JZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Revision of Synthetic Substitute in Upper Artery, Open Approach"
+  },
+  "03WY0MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Revision of Stimulator Lead in Upper Artery, Open Approach"
+  },
+  "03WY3JZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Revision of Synthetic Substitute in Upper Artery, Percutaneous Approach"
+  },
+  "03WY3MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Revision of Stimulator Lead in Upper Artery, Percutaneous Approach"
+  },
+  "03WY4JZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Revision of Synthetic Substitute in Upper Artery, Percutaneous Endoscopic Approach"
+  },
+  "03WY4MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Revision of Stimulator Lead in Upper Artery, Percutaneous Endoscopic Approach"
+  },
+  "03WYXJZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Revision of Synthetic Substitute in Upper Artery, External Approach"
+  },
+  "05HY33Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Infusion Device into Upper Vein, Percutaneous Approach"
+  },
+  "07TP0ZZ": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Resection of Spleen, Open Approach"
+  },
+  "07TP4ZZ": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Resection of Spleen, Percutaneous Endoscopic Approach"
+  },
+  "07YP0Z0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transplantation of Spleen, Allogeneic, Open Approach"
+  },
+  "07YP0Z1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transplantation of Spleen, Syngeneic, Open Approach"
+  },
+  "07YP0Z2": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transplantation of Spleen, Zooplastic, Open Approach"
+  },
+  "0B110F4": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Bypass Trachea to Cutaneous with Tracheostomy Device, Open Approach"
+  },
+  "0B110Z4": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Bypass Trachea to Cutaneous, Open Approach"
+  },
+  "0B113F4": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Bypass Trachea to Cutaneous with Tracheostomy Device, Percutaneous Approach"
+  },
+  "0B113Z4": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Bypass Trachea to Cutaneous, Percutaneous Approach"
+  },
+  "0B114F4": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Bypass Trachea to Cutaneous with Tracheostomy Device, Percutaneous Endoscopic Approach"
+  },
+  "0B114Z4": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Bypass Trachea to Cutaneous, Percutaneous Endoscopic Approach"
+  },
+  "0B21XFZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Change Tracheostomy Device in Trachea, External Approach"
+  },
+  "0BHR0MZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Insertion of Diaphragmatic Pacemaker Lead into Right Diaphragm, Open Approach"
+  },
+  "0BHR3MZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Insertion of Diaphragmatic Pacemaker Lead into Right Diaphragm, Percutaneous Approach"
+  },
+  "0BHR4MZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Insertion of Diaphragmatic Pacemaker Lead into Right Diaphragm, Percutaneous Endoscopic Approach"
+  },
+  "0BHS0MZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Insertion of Diaphragmatic Pacemaker Lead into Left Diaphragm, Open Approach"
+  },
+  "0BHS3MZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Insertion of Diaphragmatic Pacemaker Lead into Left Diaphragm, Percutaneous Approach"
+  },
+  "0BHS4MZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Insertion of Diaphragmatic Pacemaker Lead into Left Diaphragm, Percutaneous Endoscopic Approach"
+  },
+  "0BHT0MZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Insertion of Diaphragmatic Pacemaker Lead into Diaphragm, Open Approach"
+  },
+  "0BHT3MZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Insertion of Diaphragmatic Pacemaker Lead into Diaphragm, Percutaneous Approach"
+  },
+  "0BHT4MZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Insertion of Diaphragmatic Pacemaker Lead into Diaphragm, Percutaneous Endoscopic Approach"
+  },
+  "0BP1XFZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Removal Tracheostomy Device, Trachea, External"
+  },
+  "0BTC0ZZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Resection of Right Upper Lung Lobe, Open Approach"
+  },
+  "0BTC4ZZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Resection of Right Upper Lung Lobe, Percutaneous Endoscopic Approach"
+  },
+  "0BTD0ZZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Resection of Right Middle Lung Lobe, Open Approach"
+  },
+  "0BTD4ZZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Resection of Right Middle Lung Lobe, Percutaneous Endoscopic Approach"
+  },
+  "0BTF0ZZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Resection of Right Lower Lung Lobe, Open Approach"
+  },
+  "0BTF4ZZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Resection of Right Lower Lung Lobe, Percutaneous Endoscopic Approach"
+  },
+  "0BTG0ZZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Resection of Left Upper Lung Lobe, Open Approach"
+  },
+  "0BTG4ZZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Resection of Left Upper Lung Lobe, Percutaneous Endoscopic Approach"
+  },
+  "0BTJ0ZZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Resection of Left Lower Lung Lobe, Open Approach"
+  },
+  "0BTJ4ZZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Resection of Left Lower Lung Lobe, Percutaneous Endoscopic Approach"
+  },
+  "0BTK0ZZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Resection of Right Lung, Open Approach"
+  },
+  "0BTK4ZZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Resection of Right Lung, Percutaneous Endoscopic Approach"
+  },
+  "0BTL0ZZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Resection of Left Lung, Open Approach"
+  },
+  "0BTL4ZZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Resection of Left Lung, Percutaneous Endoscopic Approach"
+  },
+  "0BTM0ZZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Resection of Bilateral Lungs, Open Approach"
+  },
+  "0BTM4ZZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Resection of Bilateral Lungs, Percutaneous Endoscopic Approach"
+  },
+  "0BW10FZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Revision of Tracheostomy Device in Trachea, Open Approach"
+  },
+  "0BW13FZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Revision of Tracheostomy Device in Trachea, Percutaneous Approach"
+  },
+  "0BW14FZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Revision of Tracheostomy Device in Trachea, Percutaneous Endoscopic Approach"
+  },
+  "0BYC0Z0": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Right Upper Lung Lobe, Allogeneic, Open Approach"
+  },
+  "0BYC0Z1": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Right Upper Lung Lobe, Syngeneic, Open Approach"
+  },
+  "0BYC0Z2": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Right Upper Lung Lobe, Zooplastic, Open Approach"
+  },
+  "0BYD0Z0": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Right Middle Lung Lobe, Allogeneic, Open Approach"
+  },
+  "0BYD0Z1": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Right Middle Lung Lobe, Syngeneic, Open Approach"
+  },
+  "0BYD0Z2": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Right Middle Lung Lobe, Zooplastic, Open Approach"
+  },
+  "0BYF0Z0": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Right Lower Lung Lobe, Allogeneic, Open Approach"
+  },
+  "0BYF0Z1": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Right Lower Lung Lobe, Syngeneic, Open Approach"
+  },
+  "0BYF0Z2": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Right Lower Lung Lobe, Zooplastic, Open Approach"
+  },
+  "0BYG0Z0": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Left Upper Lung Lobe, Allogeneic, Open Approach"
+  },
+  "0BYG0Z1": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Left Upper Lung Lobe, Syngeneic, Open Approach"
+  },
+  "0BYG0Z2": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Left Upper Lung Lobe, Zooplastic, Open Approach"
+  },
+  "0BYH0Z0": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Lung Lingula, Allogeneic, Open Approach"
+  },
+  "0BYH0Z1": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Lung Lingula, Syngeneic, Open Approach"
+  },
+  "0BYH0Z2": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Lung Lingula, Zooplastic, Open Approach"
+  },
+  "0BYJ0Z0": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Left Lower Lung Lobe, Allogeneic, Open Approach"
+  },
+  "0BYJ0Z1": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Left Lower Lung Lobe, Syngeneic, Open Approach"
+  },
+  "0BYJ0Z2": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Left Lower Lung Lobe, Zooplastic, Open Approach"
+  },
+  "0BYK0Z0": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Right Lung, Allogeneic, Open Approach"
+  },
+  "0BYK0Z1": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Right Lung, Syngeneic, Open Approach"
+  },
+  "0BYK0Z2": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Right Lung, Zooplastic, Open Approach"
+  },
+  "0BYL0Z0": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Left Lung, Allogeneic, Open Approach"
+  },
+  "0BYL0Z1": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Left Lung, Syngeneic, Open Approach"
+  },
+  "0BYL0Z2": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Left Lung, Zooplastic, Open Approach"
+  },
+  "0BYM0Z0": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Bilateral Lungs, Allogeneic, Open Approach"
+  },
+  "0BYM0Z1": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Bilateral Lungs, Syngeneic, Open Approach"
+  },
+  "0BYM0Z2": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Transplantation of Bilateral Lungs, Zooplastic, Open Approach"
+  },
+  "0CT70ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Tongue, Open Approach"
+  },
+  "0CT7XZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Tongue, External Approach"
+  },
+  "0CTS0ZZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Resection of Larynx, Open Approach"
+  },
+  "0CTS4ZZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Resection of Larynx, Percutaneous Endoscopic Approach"
+  },
+  "0CTS7ZZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Resection of Larynx, Via Natural or Artificial Opening"
+  },
+  "0CTS8ZZ": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Resection of Larynx, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0D11074": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Upper Esophagus to Cutaneous with Autologous Tissue Substitute, Open Approach"
+  },
+  "0D110J4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Upper Esophagus to Cutaneous with Synthetic Substitute, Open Approach"
+  },
+  "0D110K4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Upper Esophagus to Cutaneous with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "0D110Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Upper Esophagus to Cutaneous, Open Approach"
+  },
+  "0D113J4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Upper Esophagus to Cutaneous with Synthetic Substitute, Percutaneous Approach"
+  },
+  "0D11474": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Upper Esophagus to Cutaneous with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0D114J4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Upper Esophagus to Cutaneous with Synthetic Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0D114K4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Upper Esophagus to Cutaneous with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0D114Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Upper Esophagus to Cutaneous, Percutaneous Endoscopic Approach"
+  },
+  "0D13079": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Lower Esophagus to Duodenum with Autologous Tissue Substitute, Open Approach"
+  },
+  "0D1307A": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Lower Esophagus to Jejunum with Autologous Tissue Substitute, Open Approach"
+  },
+  "0D1307B": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Lower Esophagus to Ileum with Autologous Tissue Substitute, Open Approach"
+  },
+  "0D15074": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Esophagus to Cutaneous with Autologous Tissue Substitute, Open Approach"
+  },
+  "0D150J4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Esophagus to Cutaneous with Synthetic Substitute, Open Approach"
+  },
+  "0D150K4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Esophagus to Cutaneous with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "0D150Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Esophagus to Cutaneous, Open Approach"
+  },
+  "0D153J4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Esophagus to Cutaneous with Synthetic Substitute, Percutaneous Approach"
+  },
+  "0D15474": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Esophagus to Cutaneous with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0D154J4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Esophagus to Cutaneous with Synthetic Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0D154K4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Esophagus to Cutaneous with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0D154Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Esophagus to Cutaneous, Percutaneous Endoscopic Approach"
+  },
+  "0D16074": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Cutaneous with Autologous Tissue Substitute, Open Approach"
+  },
+  "0D1607A": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Jejunum with Autologous Tissue Substitute, Open Approach"
+  },
+  "0D160J4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Cutaneous with Synthetic Substitute, Open Approach"
+  },
+  "0D160J9": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Duodenum with Synthetic Substitute, Open Approach"
+  },
+  "0D160JA": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Jejunum with Synthetic Substitute, Open Approach"
+  },
+  "0D160K4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Cutaneous with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "0D160K9": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Duodenum with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "0D160KA": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Jejunum with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "0D160Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Cutaneous, Open Approach"
+  },
+  "0D160ZA": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Jejunum, Open Approach"
+  },
+  "0D163J4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Cutaneous with Synthetic Substitute, Percutaneous Approach"
+  },
+  "0D16474": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Cutaneous with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0D164J4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Cutaneous with Synthetic Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0D164J9": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Duodenum with Synthetic Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0D164JA": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Jejunum with Synthetic Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0D164K4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Cutaneous with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0D164K9": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Duodenum with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0D164KA": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Jejunum with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0D164Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Cutaneous, Percutaneous Endoscopic Approach"
+  },
+  "0D16874": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Cutaneous with Autologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0D168J4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Cutaneous with Synthetic Substitute, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0D168J9": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Duodenum with Synthetic Substitute, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0D168JA": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Jejunum with Synthetic Substitute, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0D168K4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Cutaneous with Nonautologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0D168K9": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Duodenum with Nonautologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0D168KA": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Jejunum with Nonautologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0D168Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Stomach to Cutaneous, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0D1B0Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Ileum to Cutaneous, Open Approach"
+  },
+  "0D1B4Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Ileum to Cutaneous, Percutaneous Endoscopic Approach"
+  },
+  "0D1B8Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Ileum to Cutaneous, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0D1H0Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Cecum to Cutaneous, Open Approach"
+  },
+  "0D1H4Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Cecum to Cutaneous, Percutaneous Endoscopic Approach"
+  },
+  "0D1H8Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Cecum to Cutaneous, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0D1K0Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Ascending Colon to Cutaneous, Open Approach"
+  },
+  "0D1K4Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Ascending Colon to Cutaneous, Percutaneous Endoscopic Approach"
+  },
+  "0D1K8Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Ascending Colon to Cutaneous, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0D1L0Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Transverse Colon to Cutaneous, Open Approach"
+  },
+  "0D1L4Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Transverse Colon to Cutaneous, Percutaneous Endoscopic Approach"
+  },
+  "0D1L8Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Transverse Colon to Cutaneous, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0D1N0Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Sigmoid Colon to Cutaneous, Open Approach"
+  },
+  "0D1N4Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Sigmoid Colon to Cutaneous, Percutaneous Endoscopic Approach"
+  },
+  "0D1N8Z4": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Bypass Sigmoid Colon to Cutaneous, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0D20X0Z": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Change Drainage Device in Upper Intestinal Tract, External Approach"
+  },
+  "0D20XUZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Change Feeding Device in Upper Intestinal Tract, External Approach"
+  },
+  "0D20XYZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Change Other Device in Upper Intestinal Tract, External Approach"
+  },
+  "0D787ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Dilation of Small Intestine, Via Natural or Artificial Opening"
+  },
+  "0D7E7ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Dilation of Large Intestine, Via Natural or Artificial Opening"
+  },
+  "0DBB7ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Excision of Ileum, Via Natural or Artificial Opening"
+  },
+  "0DH50DZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Insertion of Intraluminal Device into Esophagus, Open Approach"
+  },
+  "0DH50UZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Insertion of Feeding Device into Esophagus, Open Approach"
+  },
+  "0DH53DZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Insertion of Intraluminal Device into Esophagus, Percutaneous Approach"
+  },
+  "0DH53UZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Insertion of Feeding Device into Esophagus, Percutaneous Approach"
+  },
+  "0DH54DZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Insertion of Intraluminal Device into Esophagus, Percutaneous Endoscopic Approach"
+  },
+  "0DH54UZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Insertion of Feeding Device into Esophagus, Percutaneous Endoscopic Approach"
+  },
+  "0DH57DZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Insertion of Intraluminal Device into Esophagus, Via Natural or Artificial Opening"
+  },
+  "0DH57UZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Insertion of Feeding Device into Esophagus, Via Natural or Artificial Opening"
+  },
+  "0DH58DZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Insertion of Intraluminal Device into Esophagus, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0DH58UZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Insertion of Feeding Device into Esophagus, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0DH60MZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Insertion of Stimulator Lead into Stomach, Open Approach"
+  },
+  "0DH63MZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Insertion of Stimulator Lead into Stomach, Percutaneous Approach"
+  },
+  "0DH63UZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Insertion of Feeding Device into Stomach, Percutaneous Approach"
+  },
+  "0DH64MZ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Insertion of Stimulator Lead into Stomach, Percutaneous Endoscopic Approach"
+  },
+  "0DH64UZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Insertion of Feeding Device into Stomach, Percutaneous Endoscopic Approach"
+  },
+  "0DHA3UZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Insertion of Feeding Device into Jejunum, Percutaneous Approach"
+  },
+  "0DHA4UZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Insertion of Feeding Device into Jejunum, Percutaneous Endoscopic Approach"
+  },
+  "0DHA8UZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Insertion of Feeding Device into Jejunum, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0DN87ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Release Small Intestine, Via Natural or Artificial Opening"
+  },
+  "0DNE7ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Release Large Intestine, Via Natural or Artificial Opening"
+  },
+  "0DT50ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Esophagus, Open Approach"
+  },
+  "0DT54ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Esophagus, Percutaneous Endoscopic Approach"
+  },
+  "0DT57ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Esophagus, Via Natural or Artificial Opening"
+  },
+  "0DT58ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Esophagus, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0DT60ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Stomach, Open Approach"
+  },
+  "0DT64ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Stomach, Percutaneous Endoscopic Approach"
+  },
+  "0DT67ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Stomach, Via Natural or Artificial Opening"
+  },
+  "0DT68ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Stomach, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0DT80ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Small Intestine, Open Approach"
+  },
+  "0DT84ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Small Intestine, Percutaneous Endoscopic Approach"
+  },
+  "0DT87ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Small Intestine, Via Natural or Artificial Opening"
+  },
+  "0DT88ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Small Intestine, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0DT90ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Duodenum, Open Approach"
+  },
+  "0DT94ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Duodenum, Percutaneous Endoscopic Approach"
+  },
+  "0DT97ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Duodenum, Via Natural or Artificial Opening"
+  },
+  "0DT98ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Duodenum, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0DTE0ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Large Intestine, Open Approach"
+  },
+  "0DTE4ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Large Intestine, Percutaneous Endoscopic Approach"
+  },
+  "0DTE7ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Large Intestine, Via Natural or Artificial Opening"
+  },
+  "0DTE8ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Large Intestine, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0DW04UZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Revision of Feeding Device in Upper Intestinal Tract, Percutaneous Endoscopic Approach"
+  },
+  "0DW08UZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Revision of Feeding Device in Upper Intestinal Tract, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0DY80Z0": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Transplantation of Small Intestine, Allogeneic, Open Approach"
+  },
+  "0DY80Z1": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Transplantation of Small Intestine, Syngeneic, Open Approach"
+  },
+  "0DY80Z2": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Transplantation of Small Intestine, Zooplastic, Open Approach"
+  },
+  "0DYE0Z0": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Transplantation of Large Intestine, Allogeneic, Open Approach"
+  },
+  "0DYE0Z1": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Transplantation of Large Intestine, Syngeneic, Open Approach"
+  },
+  "0DYE0Z2": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Transplantation of Large Intestine, Zooplastic, Open Approach"
+  },
+  "0FT00ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Liver, Open Approach"
+  },
+  "0FT04ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Liver, Percutaneous Endoscopic Approach"
+  },
+  "0FTG0ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Pancreas, Open Approach"
+  },
+  "0FTG4ZZ": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Resection of Pancreas, Percutaneous Endoscopic Approach"
+  },
+  "0FY00Z0": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Transplantation of Liver, Allogeneic, Open Approach"
+  },
+  "0FY00Z1": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Transplantation of Liver, Syngeneic, Open Approach"
+  },
+  "0FY00Z2": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Transplantation of Liver, Zooplastic, Open Approach"
+  },
+  "0FYG0Z0": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Transplantation of Pancreas, Allogeneic, Open Approach"
+  },
+  "0FYG0Z1": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Transplantation of Pancreas, Syngeneic, Open Approach"
+  },
+  "0FYG0Z2": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Transplantation of Pancreas, Zooplastic, Open Approach"
+  },
+  "0GT00ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Pituitary Gland, Open Approach"
+  },
+  "0GT04ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Pituitary Gland, Percutaneous Endoscopic Approach"
+  },
+  "0GT40ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Bilateral Adrenal Glands, Open Approach"
+  },
+  "0GT44ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Bilateral Adrenal Glands, Percutaneous Endoscopic Approach"
+  },
+  "0GTK0ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Thyroid Gland, Open Approach"
+  },
+  "0GTK4ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Thyroid Gland, Percutaneous Endoscopic Approach"
+  },
+  "0GTR0ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Parathyroid Gland, Open Approach"
+  },
+  "0GTR4ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Parathyroid Gland, Percutaneous Endoscopic Approach"
+  },
+  "0JH600Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Hemodynamic Monitoring Device into Chest Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH604Z": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Insertion of Pacemaker, Single Chamber into Chest Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH605Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker, Single Chamber Rate Responsive into Chest Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH606Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker, Dual Chamber into Chest Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH607Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Cardiac Resynchronization Pacemaker Pulse Generator into Chest Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH608Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Defibrillator Generator into Chest Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH609Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Cardiac Resynchronization Defibrillator Pulse Generator into Chest Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH60AZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Contractility Modulation Device into Chest Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH60MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Stimulator Generator into Chest Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH60PZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Cardiac Rhythm Related Device into Chest Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH60VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Chest Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH60WZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Totally Implantable Vascular Access Device into Chest Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH60XZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Tunneled Vascular Access Device into Chest Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH630Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Hemodynamic Monitoring Device into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH634Z": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Insertion of Pacemaker, Single Chamber into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH635Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker, Single Chamber Rate Responsive into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH636Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker, Dual Chamber into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH637Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Cardiac Resynchronization Pacemaker Pulse Generator into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH638Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Defibrillator Generator into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH639Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Cardiac Resynchronization Defibrillator Pulse Generator into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH63AZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Contractility Modulation Device into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH63MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Stimulator Generator into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH63PZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Cardiac Rhythm Related Device into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH63VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH63WZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Totally Implantable Vascular Access Device into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH63XZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Tunneled Vascular Access Device into Chest Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH70MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Stimulator Generator into Back Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH70VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Back Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH73MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Stimulator Generator into Back Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH73VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Back Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH800Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Hemodynamic Monitoring Device into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH804Z": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Insertion of Pacemaker, Single Chamber into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH805Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker, Single Chamber Rate Responsive into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH806Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker, Dual Chamber into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH807Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Cardiac Resynchronization Pacemaker Pulse Generator into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH808Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Defibrillator Generator into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH809Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Cardiac Resynchronization Defibrillator Pulse Generator into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH80AZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Contractility Modulation Device into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH80MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Stimulator Generator into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH80PZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Cardiac Rhythm Related Device into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH80VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH80WZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Totally Implantable Vascular Access Device into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH80XZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Tunneled Vascular Access Device into Abdomen Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JH830Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Hemodynamic Monitoring Device into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH834Z": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Insertion of Pacemaker, Single Chamber into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH835Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker, Single Chamber Rate Responsive into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH836Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Pacemaker, Dual Chamber into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH837Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Cardiac Resynchronization Pacemaker Pulse Generator into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH838Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Defibrillator Generator into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH839Z": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Cardiac Resynchronization Defibrillator Pulse Generator into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH83AZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Contractility Modulation Device into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH83MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Stimulator Generator into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH83PZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Insertion of Cardiac Rhythm Related Device into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH83VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH83WZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Totally Implantable Vascular Access Device into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JH83XZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Tunneled Vascular Access Device into Abdomen Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JHD0VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Right Upper Arm Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JHD0WZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Totally Implantable Vascular Access Device into Right Upper Arm Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JHD0XZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Tunneled Vascular Access Device into Right Upper Arm Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JHD3VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Right Upper Arm Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JHD3WZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Totally Implantable Vascular Access Device into Right Upper Arm Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JHD3XZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Tunneled Vascular Access Device into Right Upper Arm Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JHF0VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Left Upper Arm Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JHF0WZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Totally Implantable Vascular Access Device into Left Upper Arm Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JHF0XZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Tunneled Vascular Access Device into Left Upper Arm Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JHF3VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Left Upper Arm Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JHF3WZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Totally Implantable Vascular Access Device into Left Upper Arm Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JHF3XZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Tunneled Vascular Access Device into Left Upper Arm Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JHG0VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Right Lower Arm Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JHG3VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Right Lower Arm Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JHH0VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Left Lower Arm Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JHH3VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Left Lower Arm Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JHL0VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Right Upper Leg Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JHL0WZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Totally Implantable Vascular Access Device into Right Upper Leg Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JHL0XZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Tunneled Vascular Access Device into Right Upper Leg Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JHL3VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Right Upper Leg Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JHL3WZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Totally Implantable Vascular Access Device into Right Upper Leg Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JHL3XZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Tunneled Vascular Access Device into Right Upper Leg Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JHM0VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Left Upper Leg Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JHM0WZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Totally Implantable Vascular Access Device into Left Upper Leg Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JHM0XZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Tunneled Vascular Access Device into Left Upper Leg Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JHM3VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Left Upper Leg Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JHM3WZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Totally Implantable Vascular Access Device into Left Upper Leg Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JHM3XZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Tunneled Vascular Access Device into Left Upper Leg Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JHN0VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Right Lower Leg Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JHN3VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Right Lower Leg Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JHP0VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Left Lower Leg Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JHP3VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Left Lower Leg Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JHT0VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Trunk Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JHT3VZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Insertion of Infusion Pump into Trunk Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JWT0MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Revision of Stimulator Generator in Trunk Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JWT0PZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Revision of Cardiac Rhythm Related Device in Trunk Subcutaneous Tissue and Fascia, Open Approach"
+  },
+  "0JWT3MZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Revision of Stimulator Generator in Trunk Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JWT3PZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Revision of Cardiac Rhythm Related Device in Trunk Subcutaneous Tissue and Fascia, Percutaneous Approach"
+  },
+  "0JWTXMZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Revision of Stimulator Generator in Trunk Subcutaneous Tissue and Fascia, External Approach"
+  },
+  "0T130ZB": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Kidney Pelvis to Bladder, Open Approach"
+  },
+  "0T134ZB": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Kidney Pelvis to Bladder, Percutaneous Endoscopic Approach"
+  },
+  "0T140ZB": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Kidney Pelvis to Bladder, Open Approach"
+  },
+  "0T144ZB": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Kidney Pelvis to Bladder, Percutaneous Endoscopic Approach"
+  },
+  "0T16079": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Colocutaneous with Autologous Tissue Substitute, Open Approach"
+  },
+  "0T1607C": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Ileocutaneous with Autologous Tissue Substitute, Open Approach"
+  },
+  "0T1607D": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Cutaneous with Autologous Tissue Substitute, Open Approach"
+  },
+  "0T160J9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Colocutaneous with Synthetic Substitute, Open Approach"
+  },
+  "0T160JC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Ileocutaneous with Synthetic Substitute, Open Approach"
+  },
+  "0T160JD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Cutaneous with Synthetic Substitute, Open Approach"
+  },
+  "0T160K9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Colocutaneous with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "0T160KC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Ileocutaneous with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "0T160KD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Cutaneous with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "0T160Z8": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Colon, Open Approach"
+  },
+  "0T160Z9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Colocutaneous, Open Approach"
+  },
+  "0T160ZA": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Ileum, Open Approach"
+  },
+  "0T160ZC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Ileocutaneous, Open Approach"
+  },
+  "0T160ZD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Cutaneous, Open Approach"
+  },
+  "0T163JD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Cutaneous with Synthetic Substitute, Percutaneous Approach"
+  },
+  "0T16479": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Colocutaneous with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T1647C": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Ileocutaneous with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T1647D": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Cutaneous with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T164J9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Colocutaneous with Synthetic Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T164JC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Ileocutaneous with Synthetic Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T164JD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Cutaneous with Synthetic Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T164K9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Colocutaneous with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T164KC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Ileocutaneous with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T164KD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Cutaneous with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T164Z8": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Colon, Percutaneous Endoscopic Approach"
+  },
+  "0T164Z9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Colocutaneous, Percutaneous Endoscopic Approach"
+  },
+  "0T164ZA": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Ileum, Percutaneous Endoscopic Approach"
+  },
+  "0T164ZC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Ileocutaneous, Percutaneous Endoscopic Approach"
+  },
+  "0T164ZD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Right Ureter to Cutaneous, Percutaneous Endoscopic Approach"
+  },
+  "0T17079": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Colocutaneous with Autologous Tissue Substitute, Open Approach"
+  },
+  "0T1707C": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Ileocutaneous with Autologous Tissue Substitute, Open Approach"
+  },
+  "0T1707D": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Cutaneous with Autologous Tissue Substitute, Open Approach"
+  },
+  "0T170J9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Colocutaneous with Synthetic Substitute, Open Approach"
+  },
+  "0T170JC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Ileocutaneous with Synthetic Substitute, Open Approach"
+  },
+  "0T170JD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Cutaneous with Synthetic Substitute, Open Approach"
+  },
+  "0T170K9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Colocutaneous with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "0T170KC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Ileocutaneous with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "0T170KD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Cutaneous with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "0T170Z8": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Colon, Open Approach"
+  },
+  "0T170Z9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Colocutaneous, Open Approach"
+  },
+  "0T170ZA": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Ileum, Open Approach"
+  },
+  "0T170ZC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Ileocutaneous, Open Approach"
+  },
+  "0T170ZD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Cutaneous, Open Approach"
+  },
+  "0T173JD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Cutaneous with Synthetic Substitute, Percutaneous Approach"
+  },
+  "0T17479": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Colocutaneous with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T1747C": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Ileocutaneous with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T1747D": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Cutaneous with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T174J9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Colocutaneous with Synthetic Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T174JC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Ileocutaneous with Synthetic Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T174JD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Cutaneous with Synthetic Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T174K9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Colocutaneous with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T174KC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Ileocutaneous with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T174KD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Cutaneous with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T174Z8": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Colon, Percutaneous Endoscopic Approach"
+  },
+  "0T174Z9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Colocutaneous, Percutaneous Endoscopic Approach"
+  },
+  "0T174ZA": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Ileum, Percutaneous Endoscopic Approach"
+  },
+  "0T174ZC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Ileocutaneous, Percutaneous Endoscopic Approach"
+  },
+  "0T174ZD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Left Ureter to Cutaneous, Percutaneous Endoscopic Approach"
+  },
+  "0T18079": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Colocutaneous with Autologous Tissue Substitute, Open Approach"
+  },
+  "0T1807C": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Ileocutaneous with Autologous Tissue Substitute, Open Approach"
+  },
+  "0T1807D": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Cutaneous with Autologous Tissue Substitute, Open Approach"
+  },
+  "0T180J9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Colocutaneous with Synthetic Substitute, Open Approach"
+  },
+  "0T180JC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Ileocutaneous with Synthetic Substitute, Open Approach"
+  },
+  "0T180JD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Cutaneous with Synthetic Substitute, Open Approach"
+  },
+  "0T180K9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Colocutaneous with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "0T180KC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Ileocutaneous with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "0T180KD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Cutaneous with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "0T180Z8": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Colon, Open Approach"
+  },
+  "0T180Z9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Colocutaneous, Open Approach"
+  },
+  "0T180ZA": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Ileum, Open Approach"
+  },
+  "0T180ZC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Ileocutaneous, Open Approach"
+  },
+  "0T180ZD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Cutaneous, Open Approach"
+  },
+  "0T183JD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Cutaneous with Synthetic Substitute, Percutaneous Approach"
+  },
+  "0T18479": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Colocutaneous with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T1847C": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Ileocutaneous with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T1847D": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Cutaneous with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T184J9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Colocutaneous with Synthetic Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T184JC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Ileocutaneous with Synthetic Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T184JD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Cutaneous with Synthetic Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T184K9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Colocutaneous with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T184KC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Ileocutaneous with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T184KD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Cutaneous with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T184Z8": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Colon, Percutaneous Endoscopic Approach"
+  },
+  "0T184Z9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Colocutaneous, Percutaneous Endoscopic Approach"
+  },
+  "0T184ZA": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Ileum, Percutaneous Endoscopic Approach"
+  },
+  "0T184ZC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Ileocutaneous, Percutaneous Endoscopic Approach"
+  },
+  "0T184ZD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bilateral Ureters to Cutaneous, Percutaneous Endoscopic Approach"
+  },
+  "0T1B079": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Colocutaneous with Autologous Tissue Substitute, Open Approach"
+  },
+  "0T1B07C": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Ileocutaneous with Autologous Tissue Substitute, Open Approach"
+  },
+  "0T1B07D": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Cutaneous with Autologous Tissue Substitute, Open Approach"
+  },
+  "0T1B0J9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Colocutaneous with Synthetic Substitute, Open Approach"
+  },
+  "0T1B0JC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Ileocutaneous with Synthetic Substitute, Open Approach"
+  },
+  "0T1B0JD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Cutaneous with Synthetic Substitute, Open Approach"
+  },
+  "0T1B0K9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Colocutaneous with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "0T1B0KC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Ileocutaneous with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "0T1B0KD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Cutaneous with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "0T1B0Z9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Colocutaneous, Open Approach"
+  },
+  "0T1B0ZC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Ileocutaneous, Open Approach"
+  },
+  "0T1B0ZD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Cutaneous, Open Approach"
+  },
+  "0T1B479": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Colocutaneous with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T1B47C": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Ileocutaneous with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T1B47D": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Cutaneous with Autologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T1B4J9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Colocutaneous with Synthetic Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T1B4JC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Ileocutaneous with Synthetic Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T1B4JD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Cutaneous with Synthetic Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T1B4K9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Colocutaneous with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T1B4KC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Ileocutaneous with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T1B4KD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Cutaneous with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+  },
+  "0T1B4Z9": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Colocutaneous, Percutaneous Endoscopic Approach"
+  },
+  "0T1B4ZC": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Ileocutaneous, Percutaneous Endoscopic Approach"
+  },
+  "0T1B4ZD": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Bypass Bladder to Cutaneous, Percutaneous Endoscopic Approach"
+  },
+  "0T25X0Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Change Drainage Device in Kidney, External Approach"
+  },
+  "0T29X0Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Change Drainage Device in Ureter, External Approach"
+  },
+  "0T29XYZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Change Other Device in Ureter, External Approach"
+  },
+  "0T2BX0Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Change Drainage Device in Bladder, External Approach"
+  },
+  "0T9000Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Drainage of Right Kidney with Drainage Device, Open Approach"
+  },
+  "0T9030Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Drainage of Right Kidney with Drainage Device, Percutaneous Approach"
+  },
+  "0T9040Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Drainage of Right Kidney with Drainage Device, Percutaneous Endoscopic Approach"
+  },
+  "0T9070Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Drainage of Right Kidney with Drainage Device, Via Natural or Artificial Opening"
+  },
+  "0T9080Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Drainage of Right Kidney with Drainage Device, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0T9100Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Drainage of Left Kidney with Drainage Device, Open Approach"
+  },
+  "0T9130Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Drainage of Left Kidney with Drainage Device, Percutaneous Approach"
+  },
+  "0T9140Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Drainage of Left Kidney with Drainage Device, Percutaneous Endoscopic Approach"
+  },
+  "0T9170Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Drainage of Left Kidney with Drainage Device, Via Natural or Artificial Opening"
+  },
+  "0T9180Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Drainage of Left Kidney with Drainage Device, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0T9370Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Drainage of Right Kidney Pelvis with Drainage Device, Via Natural or Artificial Opening"
+  },
+  "0T9380Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Drainage of Right Kidney Pelvis with Drainage Device, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0T9470Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Drainage of Left Kidney Pelvis with Drainage Device, Via Natural or Artificial Opening"
+  },
+  "0T9480Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Drainage of Left Kidney Pelvis with Drainage Device, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0TB60ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Excision of Right Ureter, Open Approach"
+  },
+  "0TB63ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Excision of Right Ureter, Percutaneous Approach"
+  },
+  "0TB64ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Excision of Right Ureter, Percutaneous Endoscopic Approach"
+  },
+  "0TB67ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Excision of Right Ureter, Via Natural or Artificial Opening"
+  },
+  "0TB68ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Excision of Right Ureter, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0TB70ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Excision of Left Ureter, Open Approach"
+  },
+  "0TB73ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Excision of Left Ureter, Percutaneous Approach"
+  },
+  "0TB74ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Excision of Left Ureter, Percutaneous Endoscopic Approach"
+  },
+  "0TB77ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Excision of Left Ureter, Via Natural or Artificial Opening"
+  },
+  "0TB78ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Excision of Left Ureter, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0TQ67ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Repair Right Ureter, Via Natural or Artificial Opening"
+  },
+  "0TQ77ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Repair Left Ureter, Via Natural or Artificial Opening"
+  },
+  "0TT00ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Right Kidney, Open Approach"
+  },
+  "0TT04ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Right Kidney, Percutaneous Endoscopic Approach"
+  },
+  "0TT10ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Left Kidney, Open Approach"
+  },
+  "0TT14ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Left Kidney, Percutaneous Endoscopic Approach"
+  },
+  "0TT20ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Bilateral Kidneys, Open Approach"
+  },
+  "0TT24ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Bilateral Kidneys, Percutaneous Endoscopic Approach"
+  },
+  "0TT60ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Right Ureter, Open Approach"
+  },
+  "0TT64ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Right Ureter, Percutaneous Endoscopic Approach"
+  },
+  "0TT67ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Right Ureter, Via Natural or Artificial Opening"
+  },
+  "0TT68ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Right Ureter, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0TT70ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Left Ureter, Open Approach"
+  },
+  "0TT74ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Left Ureter, Percutaneous Endoscopic Approach"
+  },
+  "0TT77ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Left Ureter, Via Natural or Artificial Opening"
+  },
+  "0TT78ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Left Ureter, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0TTB0ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Bladder, Open Approach"
+  },
+  "0TTB4ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Bladder, Percutaneous Endoscopic Approach"
+  },
+  "0TTB7ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Bladder, Via Natural or Artificial Opening"
+  },
+  "0TTB8ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Bladder, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0TTD0ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Urethra, Open Approach"
+  },
+  "0TTD4ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Urethra, Percutaneous Endoscopic Approach"
+  },
+  "0TTD7ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Urethra, Via Natural or Artificial Opening"
+  },
+  "0TTD8ZZ": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Resection of Urethra, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0TY00Z0": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Transplantation of Right Kidney, Allogeneic, Open Approach"
+  },
+  "0TY00Z1": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Transplantation of Right Kidney, Syngeneic, Open Approach"
+  },
+  "0TY00Z2": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Transplantation of Right Kidney, Zooplastic, Open Approach"
+  },
+  "0TY10Z0": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Transplantation of Left Kidney, Allogeneic, Open Approach"
+  },
+  "0TY10Z1": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Transplantation of Left Kidney, Syngeneic, Open Approach"
+  },
+  "0TY10Z2": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Transplantation of Left Kidney, Zooplastic, Open Approach"
+  },
+  "0UT20ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Bilateral Ovaries, Open Approach"
+  },
+  "0UT24ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Bilateral Ovaries, Percutaneous Endoscopic Approach"
+  },
+  "0UT27ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Bilateral Ovaries, Via Natural or Artificial Opening"
+  },
+  "0UT28ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Bilateral Ovaries, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0UT2FZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Bilateral Ovaries, Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance"
+  },
+  "0UT40ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Uterine Supporting Structure, Open Approach"
+  },
+  "0UT44ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Uterine Supporting Structure, Percutaneous Endoscopic Approach"
+  },
+  "0UT47ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Uterine Supporting Structure, Via Natural or Artificial Opening"
+  },
+  "0UT48ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Uterine Supporting Structure, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0UT70ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Bilateral Fallopian Tubes, Open Approach"
+  },
+  "0UT74ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Bilateral Fallopian Tubes, Percutaneous Endoscopic Approach"
+  },
+  "0UT90ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Uterus, Open Approach"
+  },
+  "0UT94ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Uterus, Percutaneous Endoscopic Approach"
+  },
+  "0UT97ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Uterus, Via Natural or Artificial Opening"
+  },
+  "0UT98ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Uterus, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0UT9FZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Uterus, Via Natural or Artificial Opening With Percutaneous Endoscopic Assistance"
+  },
+  "0UTC0ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Cervix, Open Approach"
+  },
+  "0UTC7ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Cervix, Via Natural or Artificial Opening"
+  },
+  "0UTC8ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Cervix, Via Natural or Artificial Opening Endoscopic"
+  },
+  "0VTC0ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Bilateral Testes, Open Approach"
+  },
+  "0VTC4ZZ": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Resection of Bilateral Testes, Percutaneous Endoscopic Approach"
+  },
+  "0W110J9": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cranial Cavity to Right Pleural Cavity with Synthetic Substitute, Open Approach"
+  },
+  "0W110JB": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cranial Cavity to Left Pleural Cavity with Synthetic Substitute, Open Approach"
+  },
+  "0W110JG": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cranial Cavity to Peritoneal Cavity with Synthetic Substitute, Open Approach"
+  },
+  "0W110JJ": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cranial Cavity to Pelvic Cavity with Synthetic Substitute, Open Approach"
+  },
+  "0W4M070": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Creation of Vagina in Male Perineum with Autologous Tissue Substitute, Open Approach"
+  },
+  "0W4M0J0": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Creation of Vagina in Male Perineum with Synthetic Substitute, Open Approach"
+  },
+  "0W4M0K0": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Creation of Vagina in Male Perineum with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "0W4M0Z0": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Creation of Vagina in Male Perineum, Open Approach"
+  },
+  "0W4N071": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Creation of Penis in Female Perineum with Autologous Tissue Substitute, Open Approach"
+  },
+  "0W4N0J1": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Creation of Penis in Female Perineum with Synthetic Substitute, Open Approach"
+  },
+  "0W4N0K1": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Creation of Penis in Female Perineum with Nonautologous Tissue Substitute, Open Approach"
+  },
+  "0W4N0Z1": {
+    "tech_categories": [
+      "metabolic"
+    ],
+    "description": "Creation of Penis in Female Perineum, Open Approach"
+  },
+  "0WQ6XZ2": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Repair Neck, Stoma, External Approach"
+  },
+  "0WQFXZ2": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Repair Abdominal Wall, Stoma, External Approach"
+  },
+  "30230AZ": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Embryonic Stem Cells into Peripheral Vein, Open Approach"
+  },
+  "30230G0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Bone Marrow into Peripheral Vein, Open Approach"
+  },
+  "30230G1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Bone Marrow into Peripheral Vein, Open Approach"
+  },
+  "30230G2": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Related Bone Marrow into Peripheral Vein, Open Approach"
+  },
+  "30230G3": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unrelated Bone Marrow into Peripheral Vein, Open Approach"
+  },
+  "30230G4": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unspecified Bone Marrow into Peripheral Vein, Open Approach"
+  },
+  "30230U2": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Related T-cell Depleted Hematopoietic Stem Cells into Peripheral Vein, Open Approach"
+  },
+  "30230U3": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unrelated T-cell Depleted Hematopoietic Stem Cells into Peripheral Vein, Open Approach"
+  },
+  "30230U4": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unspecified T-cell Depleted Hematopoietic Stem Cells into Peripheral Vein, Open Approach"
+  },
+  "30230X0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Cord Blood Stem Cells into Peripheral Vein, Open Approach"
+  },
+  "30230X1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Cord Blood Stem Cells into Peripheral Vein, Open Approach"
+  },
+  "30230X2": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Related Cord Blood Stem Cells into Peripheral Vein, Open Approach"
+  },
+  "30230X3": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unrelated Cord Blood Stem Cells into Peripheral Vein, Open Approach"
+  },
+  "30230X4": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unspecified Cord Blood Stem Cells into Peripheral Vein, Open Approach"
+  },
+  "30230Y0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Hematopoietic Stem Cells into Peripheral Vein, Open Approach"
+  },
+  "30230Y1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Hematopoietic Stem Cells into Peripheral Vein, Open Approach"
+  },
+  "30230Y2": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Related Hematopoietic Stem Cells into Peripheral Vein, Open Approach"
+  },
+  "30230Y3": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unrelated Hematopoietic Stem Cells into Peripheral Vein, Open Approach"
+  },
+  "30230Y4": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unspecified Hematopoietic Stem Cells into Peripheral Vein, Open Approach"
+  },
+  "30233AZ": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Embryonic Stem Cells into Peripheral Vein, Percutaneous Approach"
+  },
+  "30233G0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Bone Marrow into Peripheral Vein, Percutaneous Approach"
+  },
+  "30233G1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Bone Marrow into Peripheral Vein, Percutaneous Approach"
+  },
+  "30233G2": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Related Bone Marrow into Peripheral Vein, Percutaneous Approach"
+  },
+  "30233G3": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unrelated Bone Marrow into Peripheral Vein, Percutaneous Approach"
+  },
+  "30233G4": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unspecified Bone Marrow into Peripheral Vein, Percutaneous Approach"
+  },
+  "30233U2": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Related T-cell Depleted Hematopoietic Stem Cells into Peripheral Vein, Percutaneous Approach"
+  },
+  "30233U3": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unrelated T-cell Depleted Hematopoietic Stem Cells into Peripheral Vein, Percutaneous Approach"
+  },
+  "30233U4": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unspecified T-cell Depleted Hematopoietic Stem Cells into Peripheral Vein, Percutaneous Approach"
+  },
+  "30233X0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Cord Blood Stem Cells into Peripheral Vein, Percutaneous Approach"
+  },
+  "30233X1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Cord Blood Stem Cells into Peripheral Vein, Percutaneous Approach"
+  },
+  "30233X2": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Related Cord Blood Stem Cells into Peripheral Vein, Percutaneous Approach"
+  },
+  "30233X3": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unrelated Cord Blood Stem Cells into Peripheral Vein, Percutaneous Approach"
+  },
+  "30233X4": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unspecified Cord Blood Stem Cells into Peripheral Vein, Percutaneous Approach"
+  },
+  "30233Y0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Hematopoietic Stem Cells into Peripheral Vein, Percutaneous Approach"
+  },
+  "30233Y1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Hematopoietic Stem Cells into Peripheral Vein, Percutaneous Approach"
+  },
+  "30233Y2": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Related Hematopoietic Stem Cells into Peripheral Vein, Percutaneous Approach"
+  },
+  "30233Y3": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unrelated Hematopoietic Stem Cells into Peripheral Vein, Percutaneous Approach"
+  },
+  "30233Y4": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unspecified Hematopoietic Stem Cells into Peripheral Vein, Percutaneous Approach"
+  },
+  "30240AZ": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Embryonic Stem Cells into Central Vein, Open Approach"
+  },
+  "30240G0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Bone Marrow into Central Vein, Open Approach"
+  },
+  "30240G1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Bone Marrow into Central Vein, Open Approach"
+  },
+  "30240G2": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Related Bone Marrow into Central Vein, Open Approach"
+  },
+  "30240G3": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unrelated Bone Marrow into Central Vein, Open Approach"
+  },
+  "30240G4": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unspecified Bone Marrow into Central Vein, Open Approach"
+  },
+  "30240U2": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Related T-cell Depleted Hematopoietic Stem Cells into Central Vein, Open Approach"
+  },
+  "30240U3": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unrelated T-cell Depleted Hematopoietic Stem Cells into Central Vein, Open Approach"
+  },
+  "30240U4": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unspecified T-cell Depleted Hematopoietic Stem Cells into Central Vein, Open Approach"
+  },
+  "30240X0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Cord Blood Stem Cells into Central Vein, Open Approach"
+  },
+  "30240X1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Cord Blood Stem Cells into Central Vein, Open Approach"
+  },
+  "30240X2": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Related Cord Blood Stem Cells into Central Vein, Open Approach"
+  },
+  "30240X3": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unrelated Cord Blood Stem Cells into Central Vein, Open Approach"
+  },
+  "30240X4": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unspecified Cord Blood Stem Cells into Central Vein, Open Approach"
+  },
+  "30240Y0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Hematopoietic Stem Cells into Central Vein, Open Approach"
+  },
+  "30240Y1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Hematopoietic Stem Cells into Central Vein, Open Approach"
+  },
+  "30240Y2": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Related Hematopoietic Stem Cells into Central Vein, Open Approach"
+  },
+  "30240Y3": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unrelated Hematopoietic Stem Cells into Central Vein, Open Approach"
+  },
+  "30240Y4": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unspecified Hematopoietic Stem Cells into Central Vein, Open Approach"
+  },
+  "30243AZ": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Embryonic Stem Cells into Central Vein, Percutaneous Approach"
+  },
+  "30243G0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Bone Marrow into Central Vein, Percutaneous Approach"
+  },
+  "30243G1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Bone Marrow into Central Vein, Percutaneous Approach"
+  },
+  "30243G2": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Related Bone Marrow into Central Vein, Percutaneous Approach"
+  },
+  "30243G3": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unrelated Bone Marrow into Central Vein, Percutaneous Approach"
+  },
+  "30243G4": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unspecified Bone Marrow into Central Vein, Percutaneous Approach"
+  },
+  "30243U2": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Related T-cell Depleted Hematopoietic Stem Cells into Central Vein, Percutaneous Approach"
+  },
+  "30243U3": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unrelated T-cell Depleted Hematopoietic Stem Cells into Central Vein, Percutaneous Approach"
+  },
+  "30243U4": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unspecified T-cell Depleted Hematopoietic Stem Cells into Central Vein, Percutaneous Approach"
+  },
+  "30243X0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Cord Blood Stem Cells into Central Vein, Percutaneous Approach"
+  },
+  "30243X1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Cord Blood Stem Cells into Central Vein, Percutaneous Approach"
+  },
+  "30243X2": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Related Cord Blood Stem Cells into Central Vein, Percutaneous Approach"
+  },
+  "30243X3": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unrelated Cord Blood Stem Cells into Central Vein, Percutaneous Approach"
+  },
+  "30243X4": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unspecified Cord Blood Stem Cells into Central Vein, Percutaneous Approach"
+  },
+  "30243Y0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Hematopoietic Stem Cells into Central Vein, Percutaneous Approach"
+  },
+  "30243Y1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Hematopoietic Stem Cells into Central Vein, Percutaneous Approach"
+  },
+  "30243Y2": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Related Hematopoietic Stem Cells into Central Vein, Percutaneous Approach"
+  },
+  "30243Y3": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unrelated Hematopoietic Stem Cells into Central Vein, Percutaneous Approach"
+  },
+  "30243Y4": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Allogeneic Unspecified Hematopoietic Stem Cells into Central Vein, Percutaneous Approach"
+  },
+  "30250G0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Bone Marrow into Peripheral Artery, Open Approach"
+  },
+  "30250G1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Bone Marrow into Peripheral Artery, Open Approach"
+  },
+  "30250X0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Cord Blood Stem Cells into Peripheral Artery, Open Approach"
+  },
+  "30250X1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Cord Blood Stem Cells into Peripheral Artery, Open Approach"
+  },
+  "30250Y0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Hematopoietic Stem Cells into Peripheral Artery, Open Approach"
+  },
+  "30250Y1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Hematopoietic Stem Cells into Peripheral Artery, Open Approach"
+  },
+  "30253G0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Bone Marrow into Peripheral Artery, Percutaneous Approach"
+  },
+  "30253G1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Bone Marrow into Peripheral Artery, Percutaneous Approach"
+  },
+  "30253X0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Cord Blood Stem Cells into Peripheral Artery, Percutaneous Approach"
+  },
+  "30253X1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Cord Blood Stem Cells into Peripheral Artery, Percutaneous Approach"
+  },
+  "30253Y0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Hematopoietic Stem Cells into Peripheral Artery, Percutaneous Approach"
+  },
+  "30253Y1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Hematopoietic Stem Cells into Peripheral Artery, Percutaneous Approach"
+  },
+  "30260G0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Bone Marrow into Central Artery, Open Approach"
+  },
+  "30260G1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Bone Marrow into Central Artery, Open Approach"
+  },
+  "30260X0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Cord Blood Stem Cells into Central Artery, Open Approach"
+  },
+  "30260X1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Cord Blood Stem Cells into Central Artery, Open Approach"
+  },
+  "30260Y0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Hematopoietic Stem Cells into Central Artery, Open Approach"
+  },
+  "30260Y1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Hematopoietic Stem Cells into Central Artery, Open Approach"
+  },
+  "30263G0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Bone Marrow into Central Artery, Percutaneous Approach"
+  },
+  "30263G1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Bone Marrow into Central Artery, Percutaneous Approach"
+  },
+  "30263X0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Cord Blood Stem Cells into Central Artery, Percutaneous Approach"
+  },
+  "30263X1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Cord Blood Stem Cells into Central Artery, Percutaneous Approach"
+  },
+  "30263Y0": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Autologous Hematopoietic Stem Cells into Central Artery, Percutaneous Approach"
+  },
+  "30263Y1": {
+    "tech_categories": [
+      "hemato_immuno"
+    ],
+    "description": "Transfusion of Nonautologous Hematopoietic Stem Cells into Central Artery, Percutaneous Approach"
+  },
+  "3E00X05": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Skin and Mucous Membranes, External Approach"
+  },
+  "3E01305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Subcutaneous Tissue, Percutaneous Approach"
+  },
+  "3E02305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Muscle, Percutaneous Approach"
+  },
+  "3E03005": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Peripheral Vein, Open Approach"
+  },
+  "3E030U0": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Introduction of Autologous Pancreatic Islet Cells into Peripheral Vein, Open Approach"
+  },
+  "3E030U1": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Introduction of Nonautologous Pancreatic Islet Cells into Peripheral Vein, Open Approach"
+  },
+  "3E03305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Peripheral Vein, Percutaneous Approach"
+  },
+  "3E033U0": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Introduction of Autologous Pancreatic Islet Cells into Peripheral Vein, Percutaneous Approach"
+  },
+  "3E033U1": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Introduction of Nonautologous Pancreatic Islet Cells into Peripheral Vein, Percutaneous Approach"
+  },
+  "3E04005": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Central Vein, Open Approach"
+  },
+  "3E04305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Central Vein, Percutaneous Approach"
+  },
+  "3E05005": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Peripheral Artery, Open Approach"
+  },
+  "3E05305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Peripheral Artery, Percutaneous Approach"
+  },
+  "3E06005": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Central Artery, Open Approach"
+  },
+  "3E06305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Central Artery, Percutaneous Approach"
+  },
+  "3E0A305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Bone Marrow, Percutaneous Approach"
+  },
+  "3E0F305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Respiratory Tract, Percutaneous Approach"
+  },
+  "3E0F705": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Respiratory Tract, Via Natural or Artificial Opening"
+  },
+  "3E0F805": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Respiratory Tract, Via Natural or Artificial Opening Endoscopic"
+  },
+  "3E0G305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Upper GI, Percutaneous Approach"
+  },
+  "3E0G705": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Upper GI, Via Natural or Artificial Opening"
+  },
+  "3E0G805": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Upper GI, Via Natural or Artificial Opening Endoscopic"
+  },
+  "3E0H305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Lower GI, Percutaneous Approach"
+  },
+  "3E0H705": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Lower GI, Via Natural or Artificial Opening"
+  },
+  "3E0H805": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Lower GI, Via Natural or Artificial Opening Endoscopic"
+  },
+  "3E0J305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Biliary and Pancreatic Tract, Percutaneous Approach"
+  },
+  "3E0J3U0": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Introduction of Autologous Pancreatic Islet Cells into Biliary and Pancreatic Tract, Percutaneous Approach"
+  },
+  "3E0J3U1": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Introduction of Nonautologous Pancreatic Islet Cells into Biliary and Pancreatic Tract, Percutaneous Approach"
+  },
+  "3E0J705": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Biliary and Pancreatic Tract, Via Natural or Artificial Opening"
+  },
+  "3E0J7U0": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Introduction of Autologous Pancreatic Islet Cells into Biliary and Pancreatic Tract, Via Natural or Artificial Opening"
+  },
+  "3E0J7U1": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Introduction of Nonautologous Pancreatic Islet Cells into Biliary and Pancreatic Tract, Via Natural or Artificial Opening"
+  },
+  "3E0J805": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic"
+  },
+  "3E0J8U0": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Introduction of Autologous Pancreatic Islet Cells into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic"
+  },
+  "3E0J8U1": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Introduction of Nonautologous Pancreatic Islet Cells into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic"
+  },
+  "3E0K305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Genitourinary Tract, Percutaneous Approach"
+  },
+  "3E0K705": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Genitourinary Tract, Via Natural or Artificial Opening"
+  },
+  "3E0K805": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Genitourinary Tract, Via Natural or Artificial Opening Endoscopic"
+  },
+  "3E0L305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Pleural Cavity, Percutaneous Approach"
+  },
+  "3E0L705": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Pleural Cavity, Via Natural or Artificial Opening"
+  },
+  "3E0M305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Peritoneal Cavity, Percutaneous Approach"
+  },
+  "3E0M705": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Peritoneal Cavity, Via Natural or Artificial Opening"
+  },
+  "3E0N305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Male Reproductive, Percutaneous Approach"
+  },
+  "3E0N705": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Male Reproductive, Via Natural or Artificial Opening"
+  },
+  "3E0N805": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Male Reproductive, Via Natural or Artificial Opening Endoscopic"
+  },
+  "3E0P305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Female Reproductive, Percutaneous Approach"
+  },
+  "3E0P705": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Female Reproductive, Via Natural or Artificial Opening"
+  },
+  "3E0P805": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Female Reproductive, Via Natural or Artificial Opening Endoscopic"
+  },
+  "3E0Q305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Cranial Cavity and Brain, Percutaneous Approach"
+  },
+  "3E0Q705": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Cranial Cavity and Brain, Via Natural or Artificial Opening"
+  },
+  "3E0R305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Spinal Canal, Percutaneous Approach"
+  },
+  "3E0S305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Epidural Space, Percutaneous Approach"
+  },
+  "3E0V305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Bones, Percutaneous Approach"
+  },
+  "3E0W305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Lymphatics, Percutaneous Approach"
+  },
+  "3E0Y305": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Pericardial Cavity, Percutaneous Approach"
+  },
+  "3E0Y705": {
+    "tech_categories": [
+      "malignancy"
+    ],
+    "description": "Introduction of Other Antineoplastic into Pericardial Cavity, Via Natural or Artificial Opening"
+  },
+  "3E1F78Z": {
+    "tech_categories": [
+      "resp"
+    ],
+    "description": "Irrigation of Respiratory Tract using Irrigating Substance, Via Natural or Artificial Opening"
+  },
+  "3E1G78Z": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Irrigation of Upper GI using Irrigating Substance, Via Natural or Artificial Opening"
+  },
+  "3E1H78Z": {
+    "tech_categories": [
+      "gi"
+    ],
+    "description": "Irrigation of Lower GI using Irrigating Substance, Via Natural or Artificial Opening"
+  },
+  "3E1K38Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Irrigation of Genitourinary Tract using Irrigating Substance, Percutaneous Approach"
+  },
+  "3E1M39Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Irrigation of Peritoneal Cavity using Dialysate, Percutaneous Approach"
+  },
+  "3E1Q38X": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Irrigation of Cranial Cavity and Brain using Irrigating Substance, Percutaneous Approach, Diagnostic"
+  },
+  "3E1Q38Z": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Irrigation of Cranial Cavity and Brain using Irrigating Substance, Percutaneous Approach"
+  },
+  "4B02XSZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Measurement of Cardiac Pacemaker, External Approach"
+  },
+  "4B02XTZ": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Measurement of Cardiac Defibrillator, External Approach"
+  },
+  "5A02110": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Assistance with Cardiac Output using Balloon Pump, Intermittent"
+  },
+  "5A02116": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Assistance with Cardiac Output using Other Pump, Intermittent"
+  },
+  "5A0211D": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Assistance with Cardiac Output using Impeller Pump, Intermittent"
+  },
+  "5A02210": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Assistance with Cardiac Output using Balloon Pump, Continuous"
+  },
+  "5A02216": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Assistance with Cardiac Output using Other Pump, Continuous"
+  },
+  "5A0221D": {
+    "tech_categories": [
+      "cvd"
+    ],
+    "description": "Assistance with Cardiac Output using Impeller Pump, Continuous"
+  },
+  "5A1D60Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Performance of Urinary Filtration, Multiple"
+  },
+  "5A1D70Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Performance of Urinary Filtration, Intermittent, Less than 6 Hours Per Day"
+  },
+  "5A1D80Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Performance of Urinary Filtration, Prolonged Intermittent, 6-18 hours Per Day"
+  },
+  "5A1D90Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Performance of Urinary Filtration, Continuous, Greater than 18 hours Per Day"
+  },
+  "001637B": {
+    "tech_categories": [
+      "neuromusc"
+    ],
+    "description": "Bypass Cerebral Ventricle to Cerebral Cisterns with Autologous Tissue Substitute, Percutaneous Approach"
+  },
+  "06HY33Z": {
+    "tech_categories": [
+      "renal"
+    ],
+    "description": "Insertion of Infusion Device into Lower Vein, Percutaneous Approach"
+  }
+}
