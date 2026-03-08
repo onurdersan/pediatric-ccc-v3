@@ -1,4 +1,4 @@
-# Pediatric CCC v3 — ICD-10-CM Classification Tool
+# Pediatric CCC v3 — Classification Web App
 
 A privacy-first web application that classifies ICD-10-CM diagnosis and procedure codes into **Pediatric Complex Chronic Condition (CCC) Version 3** body-system categories, based on the algorithm published by Feinstein et al. (2024). 
 
